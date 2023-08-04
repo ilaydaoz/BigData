@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigData", "BigData\BigData.csproj", "{12B59B6C-CD53-42CC-AB69-C9DA47E6E648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B59B6C-CD53-42CC-AB69-C9DA47E6E648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B59B6C-CD53-42CC-AB69-C9DA47E6E648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B59B6C-CD53-42CC-AB69-C9DA47E6E648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B59B6C-CD53-42CC-AB69-C9DA47E6E648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5DC3A36-D447-438D-9C04-C14CD16D2781}
+	EndGlobalSection
+EndGlobal
